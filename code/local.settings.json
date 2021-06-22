@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+      "AzureSignalRConnectionString": "Endpoint=https://signalrsoundarya.service.signalr.net;AccessKey=GINMLsoaVmSWA1t79jbmtNPVU4JOn1A1uh57pft4ja0=;Version=1.0;",
+      "CosmosDBConnectionString": "AccountEndpoint=https://signalr-chatcloud.documents.azure.com:443/;AccountKey=HTBxEcSIinZHJ8NJEBubnKmLZdUxm3jENSG1QboMQQiNil9DLh01vou4mLtOCNwJEf6nZbpEwFGDwPCtHMofeA==;",
+      "WEBSITE_NODE_DEFAULT_VERSION": "10.6.0",
+      "FUNCTIONS_WORKER_RUNTIME": "node"
+  },
+  "Host": {
+      "LocalHttpPort": 7071,
+      "CORS": "*"
+  }
+}
